@@ -1,3 +1,10 @@
+here i created the admin panel using codeigniter where admin can see the products he has uploaded on the dashboard.
+he has option to add new products, where form will appear and he will get the option to add the product and img of the product aslo.
+he has aslo option to edit and delete the desired product in his dashboard, delete will directly delete the product but edit will open a new form with the values the product,
+where he can edit the name,description,img,price,orgin,brand etc.
+
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
